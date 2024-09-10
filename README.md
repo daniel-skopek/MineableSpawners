@@ -38,9 +38,6 @@ Original author: fergydanny
 
    * Optional: Vault [https://dev.bukkit.org/projects/vault] and a compatible economy plugin like Essentials for the economy features.
 
-### Metrics:
-We use bStats to collect anonymous metrics (only grabs stuff like playercount, java version, server version and such). This helps me get some information about how used my plugin is and keeps me motivated. If you wish to turn it off you can in ./plugins/bStats/config.yml
-
 Everything is configurable and explained in the configuration file!
 
-Download link: [https://www.spigotmc.org/resources/mineablespawners.59921/](https://www.spigotmc.org/resources/mineablespawners.59921/)
+Download link: https://www.spigotmc.org/resources/mineablespawners-updated-1-13-1-21-1.119519/
