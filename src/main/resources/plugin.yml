@@ -1,7 +1,7 @@
 name: MineableSpawners
-version: 3.1.6
+version: 3.1.7
 main: com.dnyferguson.mineablespawners.MineableSpawners
-authors: [fergydanny]
+authors: [fergydanny, Heroify]
 description: A simplistic silk spawner plugin
 website: https://dnyferguson.com
 softdepend: [Vault]
