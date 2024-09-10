@@ -1,8 +1,11 @@
 # MineableSpawners
 This plugin allows players to mine and drop spawners, receive them via command and more!​
 
-Original author: fergydanny
+**Original author:** fergydanny
+**Current maintainer:** Heroify
 
+## Discord Support Server:
+[![Join Discord](https://i.imgur.com/ZUrxHGc.png)](https://discord.gg/CZVB56a)
 
 ## Current features:
 
