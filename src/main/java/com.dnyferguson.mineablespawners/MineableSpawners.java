@@ -5,7 +5,6 @@ import com.dnyferguson.mineablespawners.commands.MineableSpawnersCommand;
 import com.dnyferguson.mineablespawners.listeners.*;
 import com.dnyferguson.mineablespawners.utils.ConfigurationHandler;
 import net.milkbowl.vault.economy.Economy;
-import org.bstats.bukkit.Metrics;
 import org.bukkit.entity.EntityType;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.RegisteredServiceProvider;
@@ -48,9 +47,6 @@ public final class MineableSpawners extends JavaPlugin {
         }
 
         api = new API(this);
-
-        int pluginId = 23330;
-        Metrics metrics = new Metrics(this, pluginId);
     }
 
     private boolean setupEconomy() {
