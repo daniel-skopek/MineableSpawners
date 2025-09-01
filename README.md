@@ -1,11 +1,11 @@
+<p>
+  <img src="https://img.shields.io/bstats/players/7354">
+  <img src="https://img.shields.io/bstats/servers/7354">
+</p>
+
 # MineableSpawners
 This plugin allows players to mine and drop spawners, receive them via command and more!​
 
-**Original author:** fergydanny
-**Current maintainer:** Heroify
-
-## Discord Support Server:
-[![Join Discord](https://i.imgur.com/ZUrxHGc.png)](https://discord.gg/CZVB56a)
 
 ## Current features:
 
@@ -41,6 +41,9 @@ This plugin allows players to mine and drop spawners, receive them via command a
 
    * Optional: Vault [https://dev.bukkit.org/projects/vault] and a compatible economy plugin like Essentials for the economy features.
 
+### Metrics:
+We use bStats to collect anonymous metrics (only grabs stuff like playercount, java version, server version and such). This helps me get some information about how used my plugin is and keeps me motivated. If you wish to turn it off you can in ./plugins/bStats/config.yml
+
 Everything is configurable and explained in the configuration file!
 
-Download link: https://www.spigotmc.org/resources/mineablespawners-updated-1-13-1-21-1.119519/
+Download link: [https://www.spigotmc.org/resources/mineablespawners.59921/](https://www.spigotmc.org/resources/mineablespawners.59921/)

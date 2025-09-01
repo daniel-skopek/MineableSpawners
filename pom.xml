@@ -17,7 +17,7 @@
     </properties>
 
     <description>A simplistic silk spawner plugin</description>
-    <url>https://dnyferguson.com/</url>
+    <url>https://www.spigotmc.org/members/fergydanny.25236/</url>
 
     <pluginRepositories>
         <pluginRepository>
@@ -91,7 +91,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.21.1-R0.1-SNAPSHOT</version>
+            <version>1.21.4-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
