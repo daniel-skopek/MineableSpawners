@@ -1,6 +1,8 @@
 plugins {
     id("java")
     id("com.gradleup.shadow") version "8.3.5"
+    id("com.github.ben-manes.versions") version "0.54.0"
+    id("se.patrikerdes.use-latest-versions") version "0.2.19"
 }
 
 group = "com.dnyferguson"
