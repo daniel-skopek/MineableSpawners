@@ -1,6 +1,6 @@
 plugins {
     id("java")
-    id("com.gradleup.shadow") version "8.3.5"
+    id("com.gradleup.shadow") version "9.4.3"
     id("com.github.ben-manes.versions") version "0.54.0"
     id("se.patrikerdes.use-latest-versions") version "0.2.19"
 }
@@ -26,7 +26,7 @@ dependencies {
     compileOnly("org.spigotmc:spigot-api:26.1.2-R0.1-SNAPSHOT")
     compileOnly("com.github.MilkBowl:VaultAPI:1.7")
     implementation("de.tr7zw:item-nbt-api:2.15.7")
-    implementation("com.github.cryptomorin:XSeries:13.7.0")
+    implementation("com.github.cryptomorin:XSeries:13.8.0")
 }
 
 tasks.shadowJar {
