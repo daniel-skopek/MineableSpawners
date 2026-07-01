@@ -26,6 +26,11 @@ tomcat
 target/
 dependency-reduced-pom.xml
 
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
 # IntelliJ project files 
 *.iml
 *.iws
